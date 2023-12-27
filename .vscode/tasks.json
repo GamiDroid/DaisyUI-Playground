@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "buildCSS-watch",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: buildCSS-watch",
+			"detail": "npx tailwindcss -i .\\src\\tailwind.input.css -o .\\src\\tailwind.css --watch"
+		}
+	]
+}
