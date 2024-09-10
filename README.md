@@ -1,0 +1,2 @@
+- Need to have NodeJS installed
+- Execute npm run buildCSS-watch to active the playground
